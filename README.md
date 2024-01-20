@@ -12,7 +12,7 @@ To start the slide show:
 - `npm run dev`
 - visit http://localhost:3030
 
-Slides are available in the following places:
+The slides in this repo hosted publicly in the following places:
 1. [devops-transformation-slides.vercel.app](devops-transformation-slides.vercel.app)
 2. [Github pages](https://thephillipsequation.github.io/devops-transformation-slides/)
 
