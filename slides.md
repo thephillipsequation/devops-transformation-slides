@@ -14,7 +14,7 @@ layout: about-me
 
 helloMsg: Hello!
 name: Josh Phillips
-imageSrc: Pirate_Dog.png
+imageSrc: /Pirate_Dog.png
 line1:  Professor, Consultant, Senior DevOps Engineer, Engineering Manager
 ---
 
@@ -104,7 +104,7 @@ layout: center
 
 
 &nbsp;
-<img src="Ignite_and_Motivate.png" alt="Ignite and Motivate" style="width: 25%; display: inline; margin: auto;">
+<img src="/Ignite_and_Motivate.png" alt="Ignite and Motivate" style="width: 25%; display: inline; margin: auto;">
 <a href="https://whimsical.com/faster-software-delivery-at-xyz-VuycJuVns56zKN4PytbYEF"> Example Assessment</a>
 &nbsp;
 
@@ -124,7 +124,7 @@ layout: center
 
 
 &nbsp;
-<img src="Plan.png" alt="Plan" style="width: 25%; display: inline; margin: auto;">
+<img src="/Plan.png" alt="Plan" style="width: 25%; display: inline; margin: auto;">
 <a href="https://whimsical.com/faster-software-delivery-at-xyz-VuycJuVns56zKN4PytbYEF"> Example Plan</a>
   
 ---
