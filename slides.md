@@ -245,6 +245,8 @@ background: https://images.unsplash.com/photo-1517976547714-720226b864c1?q=80&w=
 - ### **Activities:** Expand cloud migration, adapt and scale team compositions.
 
 ---
+background: https://images.unsplash.com/photo-1517976547714-720226b864c1?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+---
 
 # Team Composition and Roles
 - Initial Team: Liatrio’s Technical Principal, Senior DevOps Engineers, XYZ’s senior operations, development team representatives, Product Owner.
@@ -275,7 +277,10 @@ background: https://images.unsplash.com/photo-1536559692556-79e8be88e8ab?q=80&w=
 - ### **50% Application Migration:** 8-10 Months
 - ### **Full-Scale Migration and Optimization:** 12+ Months
 
-
+---
+layout: cover
+background:  https://images.unsplash.com/photo-1536559692556-79e8be88e8ab?q=80&w=3088&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+---
 
 # Conclusion
 - This plan aims to transform XYZ's technical landscape and operational culture.
@@ -283,9 +288,14 @@ background: https://images.unsplash.com/photo-1536559692556-79e8be88e8ab?q=80&w=
 - Positioning XYZ for market competitiveness and operational excellence.
 
 ---
-
+layout: cover
+background: https://images.unsplash.com/photo-1536559692556-79e8be88e8ab?q=80&w=3088&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+---
 # Questions & Answers
 
+---
+layout: cover
+background: https://images.unsplash.com/photo-1536559692556-79e8be88e8ab?q=80&w=3088&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 # Thank You!
