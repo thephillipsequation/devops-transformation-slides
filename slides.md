@@ -135,7 +135,7 @@ Building a cross-functional team to establish DevOps and Cloud capabilities at X
 
 ---
 
-# Milestone 1: Enhance Team Proficiency
+# Outcome 1: Enhance Team Proficiency
 
 - **Objective:** Train XYZ's Mobile team in cloud-native technologies.
 - **Action:** Regular training sessions and practical exercises.
@@ -143,7 +143,7 @@ Building a cross-functional team to establish DevOps and Cloud capabilities at X
 
 ---
 
-# Milestone 2: Agile Release Cadence
+# Outcome 2: Agile Release Cadence
 
 - **Objective:** Increase deployment frequency for faster feature rollouts.
 - **Action:** Transition from annual to bi-monthly releases.
@@ -151,7 +151,7 @@ Building a cross-functional team to establish DevOps and Cloud capabilities at X
 
 ---
 
-# Milestone 3: Infrastructure Standardization
+# Outcome 3: Infrastructure Standardization
 
 - **Objective:** Standardize and automate environment configurations.
 - **Action:** Implement Infrastructure as Code for consistency and auditability.
@@ -159,7 +159,7 @@ Building a cross-functional team to establish DevOps and Cloud capabilities at X
 
 ---
 
-# Milestone 4: Regular Executive Reviews
+# Outcome 4: Regular Executive Reviews
 
 - **Objective:** Align team progress with executive expectations.
 - **Action:** Schedule regular meetings with leadership for metric and deliverable reviews.
@@ -167,7 +167,7 @@ Building a cross-functional team to establish DevOps and Cloud capabilities at X
 
 ---
 
-# Milestone 5: Code-Based Deliverables
+# Outcome 5: Code-Based Deliverables
 
 - **Objective:** Ensure repeatability and auditability of all deliverables.
 - **Action:** Deliver pipelines, infrastructure, and configurations as code.
@@ -175,7 +175,7 @@ Building a cross-functional team to establish DevOps and Cloud capabilities at X
 
 ---
 
-# Milestone 6: Pilot Deployment on AWS EKS
+# Outcome 6: Pilot Deployment on AWS EKS
 
 - **Objective:** Establish a robust pilot application on AWS.
 - **Action:** Deploy the pilot with end-to-end pipeline integrations and standardized delivery.
