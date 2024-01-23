@@ -34,6 +34,7 @@ layout: cover
 
 ---
 layout: center
+background: https://images.unsplash.com/photo-1566725240726-f3b8413be1b0?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
  # Long Lead and Cycle Times
  &nbsp;
@@ -44,6 +45,7 @@ layout: center
 
 ---
 layout: center
+background: https://images.unsplash.com/photo-1579519772836-2732b96a6306?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 # Frequent Downtime & Incidents
 &nbsp;
@@ -53,6 +55,7 @@ layout: center
 
 ---
 layout: center
+background: https://images.unsplash.com/photo-1613140692740-e4a73774eb66?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 # Long Lead Times for the Creation of Environments
 &nbsp;
@@ -62,6 +65,7 @@ layout: center
 
 ---
 layout: default
+background: https://images.unsplash.com/photo-1682905926517-6be3768e29f0?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 #  Strategy Overview
 
@@ -72,7 +76,7 @@ layout: default
 
 ---
 layout: default
-background: https://images.unsplash.com/photo-1548613112-7455315eef5f?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+background: https://images.unsplash.com/photo-1682905926517-6be3768e29f0?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 # Phase Overview
 
@@ -80,7 +84,18 @@ background: https://images.unsplash.com/photo-1548613112-7455315eef5f?q=80&w=308
 [<a href="https://whimsical.com/xyz-delivery-schedule-XhvhhSaTo7oEaoDTLuQMR3" target="_blank"><img src="/Schedule.png" alt="Schedule" style="cursor: pointer; width: 50%; margin:auto; display:block; opacity: 0.9; filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.5));"></a>](https://whimsical.com/xyz-delivery-schedule-XhvhhSaTo7oEaoDTLuQMR3)
 
 ---
+layout: default
+background: https://images.unsplash.com/photo-1682905926517-6be3768e29f0?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+---
+# Success Metrics and Measurement
+- ### **Deployment Frequency:** Increase to bi-weekly.
+- ### **Operational Efficiency:** 50% reduction in setup times, 30% decrease in incidents.
+- ### **DORA Metrics:** Deployment frequency, lead time, change failure rate, MTTR.
+- ### **Adoption and Scaling:** 75% adoption of new practices by end of Phase 2.
+
+---
 layout: center
+background: https://images.unsplash.com/photo-1682905926517-6be3768e29f0?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 # Phase 0: Ignite, Motivate, and Plan
@@ -95,13 +110,15 @@ layout: center
 
 &nbsp;
 <img src="/Ignite_and_Motivate.png" alt="Ignite and Motivate" style="width: 25%; display: inline; margin: auto;">
-<a href="https://whimsical.com/faster-software-delivery-at-xyz-VuycJuVns56zKN4PytbYEF"> Example Assessment</a>
+<a href="https://whimsical.com/faster-software-delivery-at-xyz-VuycJuVns56zKN4PytbYEF" target="_blank"> Example Assessment</a>
 &nbsp;
+
 
 
 
 ---
 layout: center
+background: https://images.unsplash.com/photo-1682905926517-6be3768e29f0?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 # Phase 0 
@@ -115,10 +132,18 @@ layout: center
 
 &nbsp;
 <img src="/Plan.png" alt="Plan" style="width: 25%; display: inline; margin: auto;">
-<a href="https://whimsical.com/xyz-strategy-to-kickoff-then-scale-653R4DcaJwCqNJVthHAaJf"> Example Plan</a>
-  
+<a href="https://whimsical.com/xyz-strategy-to-kickoff-then-scale-653R4DcaJwCqNJVthHAaJf" target="_blank"> Example Plan</a>
+
+---
+layout: section
+background: https://images.unsplash.com/photo-1634174111058-dec9f0d525b3?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTl8fHJvY2tldCUyMGxhdW5jaHxlbnwwfHwwfHx8MA%3D%3D
+---
+
+# Phase 1: Construct Delivery Foundation
+
 ---
 layout: center
+background: https://images.unsplash.com/photo-1634174111058-dec9f0d525b3?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTl8fHJvY2tldCUyMGxhdW5jaHxlbnwwfHwwfHx8MA%3D%3D
 ---
 # Phase 1: Construct Delivery Foundation
 &nbsp;
@@ -128,115 +153,129 @@ layout: center
 - **Activities:** Deploy applications on AWS EKS, initiate DevOps training, create end-to-end pipeline integrations, and realtime software delivery metric dashboards.
 
 ---
+background: https://images.unsplash.com/photo-1634174111058-dec9f0d525b3?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTl8fHJvY2tldCUyMGxhdW5jaHxlbnwwfHwwfHx8MA%3D%3D
+---
 # Phase 1: Construct Delivery Foundation
 
-Building a cross-functional team to establish DevOps and Cloud capabilities at XYZ.
-
-
----
-
-# Outcome 1: Enhance Team Proficiency
-
-- **Objective:** Train XYZ's Mobile team in cloud-native technologies.
-- **Action:** Regular training sessions and practical exercises.
-- **Outcome:** Mobile team proficient in a production-like cloud environment.
-
----
-
-# Outcome 2: Agile Release Cadence
-
-- **Objective:** Increase deployment frequency for faster feature rollouts.
-- **Action:** Transition from annual to bi-monthly releases.
-- **Outcome:** Quicker market response and iterative development.
-
----
-
-# Outcome 3: Infrastructure Standardization
-
-- **Objective:** Standardize and automate environment configurations.
-- **Action:** Implement Infrastructure as Code for consistency and auditability.
-- **Outcome:** Reduced setup time and increased deployment reliability.
-
----
-
-# Outcome 4: Regular Executive Reviews
-
-- **Objective:** Align team progress with executive expectations.
-- **Action:** Schedule regular meetings with leadership for metric and deliverable reviews.
-- **Outcome:** Ensured support and alignment with overall transformation goals.
-
----
-
-# Outcome 5: Code-Based Deliverables
-
-- **Objective:** Ensure repeatability and auditability of all deliverables.
-- **Action:** Deliver pipelines, infrastructure, and configurations as code.
-- **Outcome:** Enhanced transparency and efficiency in development processes.
-
----
-
-# Outcome 6: Pilot Deployment on AWS EKS
-
-- **Objective:** Establish a robust pilot application on AWS.
-- **Action:** Deploy the pilot with end-to-end pipeline integrations and standardized delivery.
-- **Outcome:** Real-time metrics and insights into software delivery performance.
-
----
-
-# Phase 1: Team Composition
+## Building a cross-functional team to establish DevOps and Cloud capabilities at XYZ.
 
 - **XYZ Team:**
-  - Operations members for CI/CD.
-  - Mobile app delivery team members.
-  - Product Owner.
+  - One operations members for CI/CD.
+  - Two Mobile app delivery team members.
+  - One Product Owner.
 - **Liatrio Team:**
-  - Technical Principal.
-  - Senior DevOps Engineers.
+  - One Technical Principal.
+  - Four DevOps Engineers.
+---
+layout: default
+background: https://images.unsplash.com/photo-1634174111058-dec9f0d525b3?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTl8fHJvY2tldCUyMGxhdW5jaHxlbnwwfHwwfHx8MA%3D%3D
+---
 
-_Collaboration and expertise are crucial for successful transformation._
+# Milestone 1: Enhance Team Proficiency
+&nbsp;
+
+- ### **Objective:** Train XYZ's Mobile team in cloud-native technologies.
+- ### **Action:** Regular training sessions and practical exercises.
+- ### **Outcome:** Mobile team proficient in a production-like cloud environment.
 
 ---
+background: https://images.unsplash.com/photo-1634174111058-dec9f0d525b3?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTl8fHJvY2tldCUyMGxhdW5jaHxlbnwwfHwwfHx8MA%3D%3D
+---
+
+# Milestone 2: Agile Release Cadence
+&nbsp;
+
+- ### **Objective:** Increase deployment frequency for faster feature rollouts.
+- ### **Action:** Transition from annual to bi-monthly releases.
+- ### **Outcome:** Quicker market response and iterative development.
+
+---
+background: https://images.unsplash.com/photo-1634174111058-dec9f0d525b3?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTl8fHJvY2tldCUyMGxhdW5jaHxlbnwwfHwwfHx8MA%3D%3D
+---
+
+# Milestone 3: Infrastructure Standardization
+&nbsp;
+
+- ### **Objective:** Standardize and automate environment configurations.
+- ### **Action:** Implement Infrastructure as Code for consistency and auditability.
+- ### **Outcome:** Reduced setup time and increased deployment reliability.
+
+---
+background: https://images.unsplash.com/photo-1634174111058-dec9f0d525b3?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTl8fHJvY2tldCUyMGxhdW5jaHxlbnwwfHwwfHx8MA%3D%3D
+---
+
+# Milestone 4: Regular Executive Reviews
+&nbsp;
+
+- ### **Objective:** Align team progress with executive expectations.
+- ### **Action:** Schedule regular meetings with leadership for metric and deliverable reviews.
+- ### **Outcome:** Ensured support and alignment with overall transformation goals.
+
+---
+background: https://images.unsplash.com/photo-1634174111058-dec9f0d525b3?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTl8fHJvY2tldCUyMGxhdW5jaHxlbnwwfHwwfHx8MA%3D%3D
+---
+
+# Milestone 5: Code-Based Deliverables
+&nbsp;
+
+- ### **Objective:** Ensure repeatability and auditability of all deliverables.
+- ### **Action:** Deliver pipelines, infrastructure, and configurations as code.
+- ### **Outcome:** Enhanced transparency and efficiency in development processes.
+
+---
+background: https://images.unsplash.com/photo-1634174111058-dec9f0d525b3?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTl8fHJvY2tldCUyMGxhdW5jaHxlbnwwfHwwfHx8MA%3D%3D
+---
+
+# Milestone 6: Pilot Deployment on AWS EKS
+
+- ### **Objective:** Establish a robust pilot application on AWS.
+- ### **Action:** Deploy the pilot with end-to-end pipeline integrations and standardized delivery.
+- ### **Outcome:** Real-time metrics and insights into software delivery performance.
+
+---
+layout: section
+background: https://images.unsplash.com/photo-1517976547714-720226b864c1?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+--- 
+
+
 # Phase 2: Scaling and Expanding Engagement
-- Duration: 6-12 Months
-- Objectives: Broaden migration efforts, continuously demonstrate business value.
-- Activities: Expand cloud migration, adapt and scale team compositions.
-
----
-
-# Phase 3: Full Cloud Migration
-- Duration: 6-12 Months
-- Objectives: Broaden migration efforts, continuously demonstrate business value.
-- Activities: Expand cloud migration, adapt and scale team compositions.
+&nbsp;
+- ### **Duration:** 6-12 Months
+- ### **Objectives:** Broaden migration efforts, continuously demonstrate business value.
+- ### **Activities:** Expand cloud migration, adapt and scale team compositions.
 
 ---
 
 # Team Composition and Roles
 - Initial Team: Liatrio’s Technical Principal, Senior DevOps Engineers, XYZ’s senior operations, development team representatives, Product Owner.
 - Scaling Strategy: Adapt team sizes and compositions based on project needs.
+- Team Roles: Liatrio’s Technical Principal, DevOps Engineers, XYZ’s Product Owner, Operations, and Development team representatives.
 
+---
+layout: section
+background: https://images.unsplash.com/photo-1536559692556-79e8be88e8ab?q=80&w=3088&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+---
+
+# Phase 3: Full Cloud Migration
+&nbsp;
+- ### **Duration:** 6-12 Months
+- ### **Objectives:** Broaden migration efforts, continuously demonstrate business value.
+- ### **Activities:** Expand cloud migration, adapt and scale team compositions.
+
+---
+layout: default
+background: https://images.unsplash.com/photo-1536559692556-79e8be88e8ab?q=80&w=3088&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 # Key Milestones
-- Initial Assessment: 1 Month
-- Pilot Project Success: 3 Months
-- 50% Application Migration: 6 Months
-- Full-Scale Migration and Optimization: 12 Months
+&nbsp;
 
----
+- ### **Initial Assessment:** 1 Month
+- ### **Pilot Project Success:** 3-6 Months
+- ### **50% Application Migration:** 8-10 Months
+- ### **Full-Scale Migration and Optimization:** 12+ Months
 
-# Success Metrics and Measurement
-- Deployment Frequency: Increase to bi-weekly.
-- Operational Efficiency: 50% reduction in setup times, 30% decrease in incidents.
-- DORA Metrics: Deployment frequency, lead time, change failure rate, MTTR.
-- Adoption and Scaling: 75% adoption of new practices by end of Phase 2.
 
----
-
-# Organizational Alignment
-- Aligning with XYZ’s broader business objectives.
-- Promoting cross-functional collaboration for overall success.
-
----
 
 # Conclusion
 - This plan aims to transform XYZ's technical landscape and operational culture.
@@ -246,9 +285,8 @@ _Collaboration and expertise are crucial for successful transformation._
 ---
 
 # Questions & Answers
-- ## ? 
 
 ---
 
-## Thank You!
+# Thank You!
 - Josh Phillips
