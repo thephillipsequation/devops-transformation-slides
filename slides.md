@@ -36,40 +36,30 @@ layout: cover
 layout: center
 ---
  # Long Lead and Cycle Times
-The prolonged duration from project initiation to delivery often results in:
-
+ &nbsp;
 - **Delayed Response:** Slower adaptation to market changes and customer needs.
 - **Decreased Productivity:** Resources tied up in lengthy processes.
 - **Reduced Innovation:** Less opportunity for iterative improvements and feedback.
 
-_Improving lead and cycle times is crucial for agility and competitiveness._
 
 ---
 layout: center
 ---
 # Frequent Downtime & Incidents
-
-Frequent downtimes during deployments and operational incidents have significant impacts:
-
+&nbsp;
 - **Operational Disruption:** Regular downtime affects both internal processes and customer experience.
 - **Trust Erosion:** Repeated incidents can lead to loss of customer confidence and trust.
 - **Resource Strain:** Increased demand on staff for firefighting rather than innovation.
-
-_Efficient deployment processes and robust code deployment strategies are key to minimizing these issues._
 
 ---
 layout: center
 ---
 # Long Lead Times for the Creation of Environments
+&nbsp;
+- **Slows Deployment:** Increases time-to-market by delaying the setup of development and production environments.
+- **Inconsistent Quality:** Reduces reliability and increases errors due to a lack of uniformity across different environments.
+- **Resource Inefficiency:** Wastes time and effort, preventing teams from focusing on development rather than environment management.
 
-
-Efficient creation and consistent management of environments are vital:
-
-- **Rapid Deployment:** Decreases time-to-market by enabling quicker setup of development and production environments.
-- **Consistent Quality:** Ensures reliability and reduces errors by maintaining uniformity across different environments.
-- **Resource Optimization:** Saves time and effort, allowing teams to focus on development rather than environment management.
-
-_Enhancing environment setup processes is crucial for agility and consistent quality in deliverables._
 ---
 layout: default
 ---
@@ -87,7 +77,7 @@ background: https://images.unsplash.com/photo-1548613112-7455315eef5f?q=80&w=308
 # Phase Overview
 
 
-[<a href="https://whimsical.com/xyz-delivery-schedule-XhvhhSaTo7oEaoDTLuQMR3"><img src="/Schedule.png" alt="Schedule" style="cursor: pointer; width: 50%; margin:auto; display:block; opacity: 0.9; filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.5));"></a>](https://whimsical.com/xyz-delivery-schedule-XhvhhSaTo7oEaoDTLuQMR3)
+[<a href="https://whimsical.com/xyz-delivery-schedule-XhvhhSaTo7oEaoDTLuQMR3" target="_blank"><img src="/Schedule.png" alt="Schedule" style="cursor: pointer; width: 50%; margin:auto; display:block; opacity: 0.9; filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.5));"></a>](https://whimsical.com/xyz-delivery-schedule-XhvhhSaTo7oEaoDTLuQMR3)
 
 ---
 layout: center
@@ -125,7 +115,7 @@ layout: center
 
 &nbsp;
 <img src="/Plan.png" alt="Plan" style="width: 25%; display: inline; margin: auto;">
-<a href="https://whimsical.com/faster-software-delivery-at-xyz-VuycJuVns56zKN4PytbYEF"> Example Plan</a>
+<a href="https://whimsical.com/xyz-strategy-to-kickoff-then-scale-653R4DcaJwCqNJVthHAaJf"> Example Plan</a>
   
 ---
 layout: center
@@ -141,6 +131,7 @@ layout: center
 # Phase 1: Construct Delivery Foundation
 
 Building a cross-functional team to establish DevOps and Cloud capabilities at XYZ.
+
 
 ---
 
