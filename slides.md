@@ -94,6 +94,19 @@ background: https://images.unsplash.com/photo-1682905926517-6be3768e29f0?q=80&w=
 - ### **Adoption and Scaling:** 75% adoption of new practices by end of Phase 2.
 
 ---
+layout: default
+background: https://images.unsplash.com/photo-1682905926517-6be3768e29f0?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+---
+
+# Key Milestones
+&nbsp;
+
+- ### **Initial Assessment:** 1 Month
+- ### **Pilot Project Success:** 3-6 Months
+- ### **50% Application Migration:** 8-10 Months
+- ### **Full-Scale Migration and Optimization:** 12+ Months
+
+---
 layout: center
 background: https://images.unsplash.com/photo-1682905926517-6be3768e29f0?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
